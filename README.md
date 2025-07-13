@@ -58,20 +58,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kero-Ehab/Kero-Ehab/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">I'm a Back-End Develober</p>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kero-Ehab/Kero-Ehab/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kero-Ehab/Kero-Ehab/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kero-Ehab/Kero-Ehab/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kero-Ehab.Kero-Ehab&"  />
+</div>
 
 ###
